@@ -1,0 +1,105 @@
+const newProduct = new Product(
+        // {
+        //     name: "albany table",
+        //     price: 7999,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/ecc03714fd1ff14f50d98834615da483/30525671',
+        //     featured : false,
+        //     company: "marcos",
+        //     colors: ["#f15025","#222"]
+        // },
+        // {
+        //     name: "high-back bench",
+        //     price: 999,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/d86e13eec1b200e2b21282b99a9382be/6d92321b',
+        //     featured : true,
+        //     company: "ikea",
+        //     colors: ["#f15025","#222"]
+        // },
+        // {
+        //     name: "accent chair",
+        //     price: 2599,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/ececf357189e0a6506cdb45152271a5c/e0407792',
+        //     featured : true,
+        //     company: "caressa",
+        //     colors: ["#222","#0000ff","#f15025"]
+        // },
+        // {
+        //     name: "wooden table",
+        //     price: 4599,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/13b8798ce604dab29656905f94461083/2fcbbbba',
+        //     featured : false,
+        //     company: "caressa",
+        //     colors: ["#ff0000","#0000ff"]
+        // },
+//         {
+//             name: "dining table",
+//             price: 699,
+//             imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/292e8c59ea4278c67509f457ed713c9e/dbcee29d',
+//             featured : false,
+//             company: "caressa",
+//             colors: ["#ff0000",
+// "#f15025"]
+//         },
+        // {
+        //     name: "sofa set",
+        //     price: 6999,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/7ebbffdd8e9a1b0a6ecabf8765a01a93/91111f2f',
+        //     featured : false,
+        //     company: "liddy",
+        //     colors: ["#ff0000"]
+        // },
+//         {
+//             name: "modern bookshelf",
+//             price: 899,
+//             imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/bd412f9b69724bf7cb63542c9d72cc19/70f9bf4a',
+//             featured : false,
+//             company: "marcos",
+//             colors: ["#00ff00",
+// "#f15025",
+// "#ff0000"]
+//         },
+        // {
+        //     name: "emperor bed",
+        //     price: 2199,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/a089f9304b965724c0e6828c96dd1a53/cf460909',
+        //     featured : false,
+        //     company: "liddy",
+        //     colors: ["#f15025"]
+        // },
+//         {
+//             name: "utopia sofa",
+//             price: 3995,
+//             imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/ee08b908ae61c8241f56130eedefac0a/22e0d8df',
+//             featured : true,
+//             company: "marcos",
+//             colors: ["#00ff00",
+// "#0000ff"]
+//         },
+//         {
+//             name: "entertainment center",
+//             price: 2998,
+//             imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/37c101731d977a9ff9c98530185b77e0/078958cd',
+//             featured : true,
+//             company: "liddy",
+//             colors: ["#ff0000",
+// "#00ff00"]
+//         },
+//         {
+//             name: "albany sectional",
+//             price: 1099,
+//             imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/0f159a8ff208a1ca0683359d0bbcb204/dfa5455c',
+//             featured : false,
+//             company: "ikea",
+//             colors: ["#00ff00",
+// "#ff0000"]
+//         },
+        // {
+        //     name: "leather sofa",
+        //     price: 999,
+        //     imageUrl: 'https://dl.airtable.com/.attachmentThumbnails/0a5ef48cda665e63b6417fefb9998fff/668e4a7e',
+        //     featured : false,
+        //     company: "liddy",
+        //     colors: ["#222"]
+        // },
+    )
+    newProduct.save();
